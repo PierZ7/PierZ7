@@ -1,7 +1,5 @@
 <h1 align="center">Hola, soy Shiro 👋</h1>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tuusuario&label=Visitas%20al%20perfil&color=blue&style=flat" alt="Visitas al perfil" />
-</p>
+
 
 ## 🚀 Sobre mí  
 💻 Programador Full Stack Junior | Laravel | Angular | Python  
@@ -22,4 +20,4 @@
 
 ## 📫 Contáctame  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pier-garcia-r-859a4b1bb/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pier.gr02/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/pier.gr02/)
