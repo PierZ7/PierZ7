@@ -20,14 +20,6 @@
 
 ---
 
-## 📊 Estadísticas  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=radical" alt="Estadísticas de GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuusuario&layout=compact&theme=radical" alt="Lenguajes más usados" />
-</p>
-
----
-
 ## 📫 Contáctame  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/tuusuario)
-[![Correo](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tuemail@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pier-garcia-r-859a4b1bb/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pier.gr02/)
